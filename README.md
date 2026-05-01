@@ -4,6 +4,7 @@ Bu Repoda, Jupyter NB ile Kolaydan Zora Doğru Python ve İlgili Kitaplıklar ku
 # Kolaydan Zora: Data Science Algoritmalar Serisi  
 Bu repoda Jupyter Notebook kullanılarak Python ve ilgili kütüphanelerle Kolaydan Zora doğru algoritma örnekleri yer almaktadır.  
 Her notebook, teorik açıklamalar ve pratik kod örnekleri içerir.  
+!pip install numpy pandas matplotlib scikit-learn
 
 ## 📂 İçerik
 1. [01_Giriş](01_Giris.ipynb)  
