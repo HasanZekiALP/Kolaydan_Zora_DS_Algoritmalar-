@@ -14,6 +14,19 @@ Her notebook, teorik açıklamalar ve pratik kod örnekleri içerir.
 6. [07_Yapay_Sinir_Agi](07_Yapay_Sinir_Agi.ipynb)  
 7. [Convolution Neural Network](Convolution_Neural_Network.ipynb)  
 
+## 📂 Contents
+1. [01_Introduction](01_Giris.ipynb)
+2. [02_Linear Regression](02_Dogrusal_Regresyon.ipynb)
+3. [03_Logistic Regression](03_Lojistik_Regresyon.ipynb)
+4. [04_KNN_DecisionTree](04_KNN_Karar_Agaci.ipynb)
+5. [06_KMeans_PCA](06_KMeans_PCA.ipynb)
+6. [07_Artificial Neural Network](07_Yapay_Sinir_Agi.ipynb)
+7. [Convolution Neural Network](Convolution_Neural_Network.ipynb)
+
+
+
+
+
 ## 🚀 Çalıştırma
 - Notebook’ları doğrudan JupyterLab veya Google Colab üzerinden çalıştırabilirsiniz.  
 - Örnek:  
